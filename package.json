@@ -1,0 +1,23 @@
+{
+  "name": "thethriftshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonalijoseph1205/thethriftshopwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonalijoseph1205/thethriftshopwebsite/issues"
+  },
+  "homepage": "https://github.com/sonalijoseph1205/thethriftshopwebsite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
